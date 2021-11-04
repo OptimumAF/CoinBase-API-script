@@ -1,0 +1,3 @@
+API Key: eKpjCYv7p3UswXRc
+API Secret: oLYt4OBUrQPGTvqCo4ukQo1FodXuASr4
+Only edit the FILL_HERE locations
