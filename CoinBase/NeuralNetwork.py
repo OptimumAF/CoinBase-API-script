@@ -1,3 +1,4 @@
+# from https://github.com/NourozR/Stock-Price-Prediction-LSTM/blob/master/StockPricePrediction.py
 import matplotlib.pyplot as plt
 import pandas_datareader as web
 import numpy as np
