@@ -1,0 +1,4 @@
+Passphrase: zuh29io1u5g
+API Key: 8762a4c22bb708305cb76223b00537ec
+API Secret: Zhr/lP0wW/VeEmdd4wq4bm6UhOg/dkewWCFz+A1ThDtlIe7eiLYVC6sQ9/ycGsCH1wQAZwJVDFm/YZw9OJZDnw==
+Only edit the FILL_HERE locations
